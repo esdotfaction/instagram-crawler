@@ -36,7 +36,7 @@ GEM
     nokogiri (1.10.2)
       mini_portile2 (~> 2.4.0)
     public_suffix (3.0.3)
-    rake (10.5.0)
+    rake (13.0.3)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -70,7 +70,7 @@ DEPENDENCIES
   bundler (~> 1.17)
   coveralls
   instagram-crawler!
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.0)
 
 BUNDLED WITH
